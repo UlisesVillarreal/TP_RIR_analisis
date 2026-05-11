@@ -1,0 +1,71 @@
+body {
+    font-family:'Poppins', sans-serif;
+    background-color: #fadcd5;
+    margin: 0;
+
+}
+.main { 
+    line-height: 1.5;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    color: #4b2138;
+}
+
+.header {
+    background-color: #4b2138;    
+    padding: 10px 20px;
+    text-align: center;
+    color: #fadcd5;
+}
+.titulo {
+    font-size: 30px;
+
+}
+.subtitulo {
+    font-size: 20px;
+}
+.subtitulo2 {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    color: #4b2138;
+}
+
+.lista {
+    color: #4b2138;
+    text-align: center;
+
+}
+.lista_alumnos {
+    list-style: none;
+    color: #4b2138;
+    padding: 0;
+    margin: 0;
+}
+
+.content_boton {
+    text-align: center;
+}
+.boton {
+    display: inline-block;
+    background-color: #4b2138;
+    color: #fadcd5;
+    padding: 12px 14px;
+    border-radius: 12px;
+    transition: 0.3s;
+    text-decoration: none;
+    margin: 0px 0px 20px;
+}
+
+.boton:hover {
+    background-color: #9d567d;
+    transform: scale(1.05);
+}
+
+.footer {
+    background-color: #4b2138;    
+    padding: 3px;
+    text-align: center;
+    color: #fadcd5;
+}
