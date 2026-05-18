@@ -3,6 +3,7 @@ body {
     background-color: #fadcd5;
     margin: 0;
 
+
 }
 .main { 
     line-height: 1.5;
@@ -13,10 +14,19 @@ body {
 }
 
 .header {
+    display: flex;
+    
     background-color: #4b2138;    
     padding: 10px 20px;
     text-align: center;
     color: #fadcd5;
+}
+.header img {
+    width: 130px;
+    height: 130px;
+}
+.header nav {
+    margin: auto;
 }
 .titulo {
     font-size: 30px;
