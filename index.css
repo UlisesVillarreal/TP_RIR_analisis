@@ -25,7 +25,8 @@ body {
     width: 130px;
     height: 130px;
 }
-.header nav {
+.header div {
+
     margin: auto;
 }
 .titulo {
